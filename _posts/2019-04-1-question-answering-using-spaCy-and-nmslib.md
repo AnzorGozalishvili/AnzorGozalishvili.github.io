@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Simple QA API"
-date: 2020-03-04
+date: 2019-04-01
 background_image: "../images/question_answering.jpeg"
 author: "Anzor Gozalishvili"
 author_image: "../images/author.jpg"
