@@ -1,2 +1,4 @@
-name: Anzor Gozalishvili known as Anz2
+name: Anzor Gozalishvili
 markdown: kramndown
+
+permalink: /blog/:title
