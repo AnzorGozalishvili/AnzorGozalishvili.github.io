@@ -32,7 +32,7 @@ question.
 
 ## **Example Data**:
 
-| question | answer                                                 |                             |
+|          | question                                               | answer                      |
 |----------|--------------------------------------------------------|-----------------------------|
 | 0        | Carl and the Passions changed band name to what        | Beach Boys                  |
 | 1        | How many rings on the Olympic flag                     | Five                        |
@@ -47,12 +47,9 @@ question.
 | 10       | Who betrayed Jesus to the Romans                       | Judas Escariot              |
 
 
-
-
 ## **Notebook**:
 
 ## Imports
-
 
 ```python
 import pandas as pd
@@ -62,7 +59,6 @@ import re
 import spacy
 import nmslib
 ```
-
 
 ```python
 !pip install nmslib
@@ -78,21 +74,17 @@ import nmslib
 
 # Read xslx file sheet
 
-
 ```python
 data = pd.read_excel('../data/QA_(0-100).xlsx','Sheet1',  index_col=0, header=None)
 ```
-
 
 ```python
 data = data.iloc[:, 0:2].reset_index(drop=True)
 ```
 
-
 ```python
 data.columns = ['question', 'answer']
 ```
-
 
 ```python
 data.head(2)
@@ -245,7 +237,6 @@ data.head(2)
   </tbody>
 </table>
 </div>
-
 
 ```python
 preds = data.question.apply(lambda x: qa.query(x))
