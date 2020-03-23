@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Simple QA API"
 date: 2019-04-01
 background_image: "../images/question_answering.jpeg"

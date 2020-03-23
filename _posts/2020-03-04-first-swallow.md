@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "First Site Launch"
 date: 2020-03-04
 background_image: "../images/first_swallow.png"
