@@ -2,14 +2,14 @@
 layout: single
 title: "Recent Keyword Extraction Techniques"
 date: 2019-04-22
-background_image: "../images/keyword_extraction.jpeg"
+background_image: "/images/keyword_extraction.jpeg"
 author: "Anzor Gozalishvili"
-author_image: "../images/author.jpg"
+author_image: "/images/avatar.jpg"
 category: NLP
 abstract: "Review of recent keyword extraction techniques and their ready to use examples."
 ---
 
-![title](../images/keyword_extraction.jpeg)
+![title](/images/keyword_extraction.jpeg)
 
 # **Recent Keyword Extraction Techniques**
 
@@ -104,7 +104,7 @@ can be done using `Maximal Marginal Relevance` (MMR) method. Finally it worked w
 previously existing models. One important detail here [Sent2Vec](https://www.aclweb.org/anthology/N18-1049/) 
 is used for document embeddings. (These two papers are published on same year). Here is a simulation of relevant and
 diverse phrase selection.
-![title](../images/embedrank.gif)
+![title](/images/embedrank.gif)
 
 ## SIFRank
 
@@ -137,7 +137,7 @@ to understand more.
 
 ## Evaluation Results
 
-![title](../images/sifrank_evaluation.jpg)
+![title](/images/sifrank_evaluation.jpg)
 
 
 ## Implementations

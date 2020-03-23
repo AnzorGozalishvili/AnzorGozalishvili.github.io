@@ -11,27 +11,26 @@
 # https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
 
 # theme                  : "minimal-mistakes-jekyll"
-# remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin: "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
-
-theme: minimal-mistakes-jekyll
+#remote_theme           : "mmistakes/minimal-mistakes@4.19.1"
+minimal_mistakes_skin: "air" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale: "en-US"
-title: "Anz2's Webpage"
+title: "Anz2's Page"
 title_separator: "-"
-subtitle: #
+subtitle: # site tagline that appears below site title in masthead
 name: "Anzor Gozalishvili"
-description: "Everything about Machine Learning"
-url: "anz2.blog"
+description: "All about Machine Learning"
+url: # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl: "/" # the subpath of your site, e.g. "/blog"
-repository: # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser: # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+repository: "AnzorGozalishvili/AnzorGozalishvili.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+teaser: "/images/ai_style_transfer.jpg" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo: # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title: # overrides the website title displayed in the masthead, use " " for no title
-# breadcrumbs            : false # true, false (default)
+breadcrumbs: true # true, false (default)
 words_per_minute: 200
 comments:
+  provider: # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "custom"
   disqus:
     shortname: # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
   discourse:
@@ -40,21 +39,21 @@ comments:
     # https://developers.facebook.com/docs/plugins/comments
     appid:
     num_posts: # 5 (default)
-    colorscheme: "light" # (default), "dark"
+    colorscheme: # "light" (default), "dark"
   utterances:
     theme: # "github-light" (default), "github-dark"
     issue_term: # "pathname" (default)
   staticman:
-    branch: "master"
+    branch: # "master"
     endpoint: # "https://{your Staticman v3 API}/v3/entry/github/"
 reCaptcha:
   siteKey:
   secret:
 atom_feed:
   path: # blank (default) uses feed.xml
-search: # true, false (default)
-search_full_content: # true, false (default)
-search_provider: # lunr (default), algolia, google
+search: true # true, false (default)
+search_full_content: true # true, false (default)
+search_provider: google # lunr (default), algolia, google
 algolia:
   application_id: # YOUR_APPLICATION_ID
   index_name: # YOUR_INDEX_NAME
@@ -94,30 +93,30 @@ analytics:
 
 # Site Author
 author:
-  name: "Your Name"
-  avatar: "/images/avatar.jpg"
-  bio: "I am Lead Machine Learning engineer at MaxinAI"
+  name: "Anzor Gozalishvili"
+  avatar: "/images/avatar.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio: "I am Lead Machine Learning Engineer at MaxinAI"
   location: "Tbilisi, Georgia"
   email: "anz2.gozalishvili@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-        url: "mailto:anz2.gozalishvili@gmail.com"
+#      url: mailto:"anz2.gozalishvili@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-        url: "anz2.blog"
+      url: "https://anz2.blog"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
+#      url: "https://twitter.com/"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-        url: "https://www.facebook.com/anzor.gozalishvili"
+      url: "https://www.facebook.com/anzor.gozalishvili"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-        url: "https://github.com/AnzorGozalishvili"
+      url: "https://github.com/AnzorGozalishvili"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+#       url: "https://instagram.com/"
 
 # Site Footer
 footer:
@@ -127,16 +126,16 @@ footer:
       # url:
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-        url: "https://www.facebook.com/anzor.gozalishvili"
+      url: "https://www.facebook.com/anzor.gozalishvili"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-        url: "https://github.com/AnzorGozalishvili"
+      url: "https://github.com/AnzorGozalishvili"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
     - label: "Bitbucket"
       icon: "fab fa-fw fa-bitbucket"
-      # url:
+#      url:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url:
@@ -210,7 +209,7 @@ sass:
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
-timezone: "GMT+4" # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins (previously gems:)
@@ -282,12 +281,8 @@ defaults:
       related: true
   # _pages
   - scope:
-      path: ""
+      path: "_pages/"
       type: pages
     values:
       layout: single
       author_profile: true
-      read_time: true
-      comments: true
-      share: true
-      related: true

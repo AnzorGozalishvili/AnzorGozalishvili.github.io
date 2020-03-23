@@ -2,14 +2,14 @@
 layout: single
 title: "Simple QA API"
 date: 2019-04-01
-background_image: "../images/question_answering.jpeg"
+background_image: "/images/question_answering.jpeg"
 author: "Anzor Gozalishvili"
-author_image: "../images/author.jpg"
+author_image: "/images/avatar.jpg"
 category: NLP
 abstract: "Simple Example of building question answering API using spaCy and nmslib"
 ---
 
-![title](../images/question_answering.jpeg)
+![title](/images/question_answering.jpeg)
 # **Simple Question Answering API using spaCy and nmslib**
 
 Question answering is very popular task in NLP. Each routine agent work can be replaced using such system. 
