@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Relevant Phrase Tagging in Semantic Search"
-date: 2019-04-22
+date: 2020-04-23
 background_image: "/images/semantic_search.jpg"
 author: "Anzor Gozalishvili"
 author_image: "/images/avatar.jpg"

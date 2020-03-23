@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Recent Keyword Extraction Techniques"
-date: 2019-04-22
+date: 2020-04-22
 background_image: "/images/keyword_extraction.jpeg"
 author: "Anzor Gozalishvili"
 author_image: "/images/avatar.jpg"

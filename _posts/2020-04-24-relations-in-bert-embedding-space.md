@@ -1,13 +1,14 @@
 ---
 layout: single
 title: "Relations in BERT embedding space"
-date: 2019-04-22
-background_image: "../images/question_answering.jpeg"
+date: 2020-04-24
+background_image: "/images/embedding_space.png"
 author: "Anzor Gozalishvili"
-author_image: "../images/avatar.jpg"
+author_image: "/images/avatar.jpg"
 category: NLP
-abstract: "Review of recent keyword extraction techniques and their ready to use examples."
+abstract: "Trying to understand relations between texts in BERT embedding space."
 ---
 
-![title](../images/question_answering.jpeg)
-# **Recent keyword extraction techniques**
+![title](/images/embedding_space.png)
+
+# **Relations in BERT embedding space**
