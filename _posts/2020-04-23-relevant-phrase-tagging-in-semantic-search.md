@@ -1,15 +1,15 @@
 ---
 layout: single
 title: "Relevant Phrase Tagging in Semantic Search"
-date: 2020-04-23
-background_image: "/images/semantic_search.jpg"
-author: "Anzor Gozalishvili"
-author_image: "/images/avatar.jpg"
 category: NLP
 abstract: "Idea of automatic tagging of relevant phrases in semantic search results"
+
+header:
+  overlay_image: /images/semantic_search.jpg
+  overlay_filter: 0.5
+  caption:
 ---
 
-![title](/images/semantic_search.jpg)
 # **Relevant Phrase Tagging in Semantic Search**
 
 ## Motivation

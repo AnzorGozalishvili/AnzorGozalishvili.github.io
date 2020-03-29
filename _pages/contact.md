@@ -1,7 +1,11 @@
 ---
-layout: default
-permalink: /about/
-title: "About"
+title: "Contact"
+permalink: /contact/
+
+layout: single
+classes: wide
+header:
+    overlay_image: /images/ai_style_transfer.jpg
 ---
 <div id="colorlib-main">
     <section class="ftco-section contact-section">

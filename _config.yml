@@ -20,8 +20,8 @@ title: "Anz2's Page"
 title_separator: "-"
 subtitle: # site tagline that appears below site title in masthead
 name: "Anzor Gozalishvili"
-description: "All about Machine Learning"
-url: # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+description: "Personal Work and Ideas in Data Science and Machine Learning"
+url: "https://anz2.blog" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl: "/" # the subpath of your site, e.g. "/blog"
 repository: "AnzorGozalishvili/AnzorGozalishvili.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser: "/images/ai_style_transfer.jpg" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -30,7 +30,7 @@ masthead_title: # overrides the website title displayed in the masthead, use " "
 breadcrumbs: true # true, false (default)
 words_per_minute: 200
 comments:
-  provider: # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "custom"
+  provider: "facebook" # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "custom"
   disqus:
     shortname: # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
   discourse:
@@ -39,7 +39,7 @@ comments:
     # https://developers.facebook.com/docs/plugins/comments
     appid:
     num_posts: # 5 (default)
-    colorscheme: # "light" (default), "dark"
+    colorscheme: "light" # "light" (default), "dark"
   utterances:
     theme: # "github-light" (default), "github-dark"
     issue_term: # "pathname" (default)
@@ -72,16 +72,18 @@ naver_site_verification:
 twitter:
   username:
 facebook:
-  username:
+  username: "anzor.gozalishvili"
   app_id:
   publisher:
-og_image: # Open Graph/Twitter default site image
+og_image: "/assets/images/site-logo.png" # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
   type: # Person or Organization (defaults to Person)
   name: # If the user or organization name differs from the site's name
-  links: # An array of links to social media profiles
+  links:
+    - "https://www.facebook.com/anzor.gozalishvili"
+    - "https://www.linkedin.com/in/anzor-gozalishvili" # An array of links to social media profiles
 
 # Analytics
 analytics:
@@ -145,6 +147,9 @@ footer:
 include:
   - .htaccess
   - _pages
+  - _posts
+  - _data
+  - images
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
@@ -209,7 +214,7 @@ sass:
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
-timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: "Asia/Tbilisi" # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins (previously gems:)
@@ -219,6 +224,7 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jekyll-include-cache
+  - jekyll-remote-theme
 
 # mimic GitHub Pages with --safe
 whitelist:
@@ -268,6 +274,9 @@ compress_html:
 
 # Defaults
 defaults:
+  # _home
+  - scope:
+      -
   # _posts
   - scope:
       path: ""
@@ -279,10 +288,19 @@ defaults:
       comments: true
       share: true
       related: true
+      classes: wide
+
   # _pages
   - scope:
-      path: "_pages/"
+      path: "/_pages/"
       type: pages
     values:
       layout: single
-      author_profile: true
+      classes: wide
+
+  # _events
+  - scope:
+      path: "/_events/"
+      type: events
+    values:
+      layout: single

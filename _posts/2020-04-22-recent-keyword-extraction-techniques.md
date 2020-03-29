@@ -1,15 +1,14 @@
 ---
 layout: single
 title: "Recent Keyword Extraction Techniques"
-date: 2020-04-22
-background_image: "/images/keyword_extraction.jpeg"
-author: "Anzor Gozalishvili"
-author_image: "/images/avatar.jpg"
 category: NLP
 abstract: "Review of recent keyword extraction techniques and their ready to use examples."
----
 
-![title](/images/keyword_extraction.jpeg)
+header:
+  overlay_image: /images/keyword_extraction.jpeg
+  overlay_filter: 0.5
+  caption:
+---
 
 # **Recent Keyword Extraction Techniques**
 

@@ -1,6 +1,11 @@
 ---
-layout: default
+title: "CV"
 permalink: /cv/
+
+layout: single
+classes: wide
+header:
+    overlay_image: /images/ai_style_transfer.jpg
 ---
 
 <html>
@@ -33,7 +38,7 @@ permalink: /cv/
                             Anzor Gozalishvili
                         </h1>
                         <h5>
-                            Lead Machine Learning Engineer and Data Scientist
+                            Machine Learning Engineer and Data Scientist
                         </h5>
 
 

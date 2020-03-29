@@ -1,15 +1,15 @@
 ---
 layout: single
 title: "Simple QA API"
-date: 2019-04-01
-background_image: "/images/question_answering.jpeg"
-author: "Anzor Gozalishvili"
-author_image: "/images/avatar.jpg"
 category: NLP
 abstract: "Simple Example of building question answering API using spaCy and nmslib"
+
+header:
+  overlay_image: /images/question_answering.jpeg
+  overlay_filter: 0.5
+  caption: 
 ---
 
-![title](/images/question_answering.jpeg)
 # **Simple Question Answering API using spaCy and nmslib**
 
 Question answering is very popular task in NLP. Each routine agent work can be replaced using such system. 
@@ -90,43 +90,10 @@ data.columns = ['question', 'answer']
 data.head(2)
 ```
 
-<div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
-
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
-<table border="1" class="dataframe">
-  <thead>
-    <tr style="text-align: right;">
-      <th></th>
-      <th>question</th>
-      <th>answer</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <th>0</th>
-      <td>Carl and the Passions changed band name to what</td>
-      <td>Beach Boys</td>
-    </tr>
-    <tr>
-      <th>1</th>
-      <td>How many rings on the Olympic flag</td>
-      <td>Five</td>
-    </tr>
-  </tbody>
-</table>
-</div>
-
+|          | question                                        | answer     |
+|----------|-------------------------------------------------|------------|
+| 0        | Carl and the Passions changed band name to what | Beach Boys |
+| 1        | How many rings on the Olympic flag              | Five       |
 
 # Create QA model class
 
@@ -201,42 +168,11 @@ qa.query('Carl and the Passions day changed band name to what', max_distance=0.0
 data.head(2)
 ```
 
-<div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
+|   | question                                        | answer     |
+|---|-------------------------------------------------|------------|
+| 0 | Carl and the Passions changed band name to what | Beach Boys |
+| 1 | How many rings on the Olympic flag              | Five       |
 
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
-<table border="1" class="dataframe">
-  <thead>
-    <tr style="text-align: right;">
-      <th></th>
-      <th>question</th>
-      <th>answer</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <th>0</th>
-      <td>Carl and the Passions changed band name to what</td>
-      <td>Beach Boys</td>
-    </tr>
-    <tr>
-      <th>1</th>
-      <td>How many rings on the Olympic flag</td>
-      <td>Five</td>
-    </tr>
-  </tbody>
-</table>
-</div>
 
 ```python
 preds = data.question.apply(lambda x: qa.query(x))
