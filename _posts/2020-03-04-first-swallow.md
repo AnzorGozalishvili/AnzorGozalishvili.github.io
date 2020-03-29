@@ -5,7 +5,7 @@ category: General
 abstract: "Why I decided to start writing blogs"
 
 header:
-  overlay_image: /images/first_swallow.png
+  image: /images/posts/first_swallow.png
   overlay_filter: 0.5
   caption:
 ---

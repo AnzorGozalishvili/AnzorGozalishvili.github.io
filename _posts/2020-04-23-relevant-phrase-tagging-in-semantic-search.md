@@ -5,7 +5,7 @@ category: NLP
 abstract: "Idea of automatic tagging of relevant phrases in semantic search results"
 
 header:
-  overlay_image: /images/semantic_search.jpg
+  image: /images/posts/semantic_search.jpg
   overlay_filter: 0.5
   caption:
 ---
@@ -68,7 +68,7 @@ importance of each candidate phrase. Higher change in cosine similarity means hi
 Yes it did! It it was giving meaningful results. Unfortunately I didn't have any labeled dataset for it to measure 
 results but what was ranked as important it was really important. From what I have seen from results, I can say that
 precision was good but I can't tell anything about recall. Here is one example from query results to take a look.
-(That example is actually taken randomly and isn't the best one) ![title](/images/sample_search.png). 
+(That example is actually taken randomly and isn't the best one) ![title](/images/posts/sample_search.png). 
 
 ## Feature Importance Implementation
 

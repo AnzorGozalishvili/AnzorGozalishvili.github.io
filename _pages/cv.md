@@ -6,7 +6,7 @@ layout: single
 classes: wide
 author_profile: true
 header:
-    overlay_image: /images/ai_style_transfer.jpg
+    image: /images/pages/mat-reding-5DDZ3C-2Ll0-unsplash.jpg
 ---
 <!----- Conversion time: 1.525 seconds.
 

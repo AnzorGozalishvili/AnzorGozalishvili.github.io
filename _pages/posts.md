@@ -4,7 +4,7 @@ permalink: /posts/
 
 layout: archive
 header:
-    overlay_image: /images/ai_style_transfer.jpg
+    image: /images/pages/mona-eendra-NZNFY_g6ong-unsplash.jpg
 ---
 <h3 class="archive__subtitle">Posts</h3>
 

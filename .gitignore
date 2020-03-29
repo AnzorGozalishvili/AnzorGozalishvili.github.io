@@ -8,3 +8,4 @@ minimal-mistakes-jekyll.gemspec
 _includes/analytics.html
 *.sh
 *.lock
+*-metadata

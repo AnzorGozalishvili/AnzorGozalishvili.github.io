@@ -5,7 +5,7 @@ category: NLP
 abstract: "Review of recent keyword extraction techniques and their ready to use examples."
 
 header:
-  overlay_image: /images/keyword_extraction.jpeg
+  image: /images/posts/keyword_extraction.jpeg
   overlay_filter: 0.5
   caption:
 ---
@@ -103,7 +103,7 @@ can be done using `Maximal Marginal Relevance` (MMR) method. Finally it worked w
 previously existing models. One important detail here [Sent2Vec](https://www.aclweb.org/anthology/N18-1049/) 
 is used for document embeddings. (These two papers are published on same year). Here is a simulation of relevant and
 diverse phrase selection.
-![title](/images/embedrank.gif)
+![title](/images/posts/embedrank.gif)
 
 ## SIFRank
 
@@ -136,7 +136,7 @@ to understand more.
 
 ## Evaluation Results
 
-![title](/images/sifrank_evaluation.jpg)
+![title](/images/posts/sifrank_evaluation.jpg)
 
 
 ## Implementations

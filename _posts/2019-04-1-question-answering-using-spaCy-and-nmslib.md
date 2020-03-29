@@ -5,7 +5,7 @@ category: NLP
 abstract: "Simple Example of building question answering API using spaCy and nmslib"
 
 header:
-  overlay_image: /images/question_answering.jpeg
+  image: /images/posts/question_answering.jpeg
   overlay_filter: 0.5
   caption: 
 ---

@@ -6,7 +6,7 @@ layout: single
 classes: wide
 author_profile: true
 header:
-    overlay_image: /images/ai_style_transfer.jpg
+    image: /images/pages/ian-schneider-TamMbr4okv4-unsplash.jpg
 ---
 I am ML Engineer and Data Scientist enthusiast from Georgia. I got into that field in September 2016 when I 
 was studying on Bachelor's of Computer Science. 
