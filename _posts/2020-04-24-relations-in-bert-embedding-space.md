@@ -9,5 +9,3 @@ header:
   overlay_filter: 0.5
   caption:
 ---
-
-# **Relations in BERT embedding space**

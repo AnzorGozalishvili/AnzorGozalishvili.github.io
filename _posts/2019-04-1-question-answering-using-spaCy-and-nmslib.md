@@ -1,16 +1,12 @@
 ---
 layout: single
-title: "Simple QA API"
+title: "Simple Question Answering API using spaCy and nmslib"
 category: NLP
 abstract: "Simple Example of building question answering API using spaCy and nmslib"
 
 header:
-  image: /images/posts/question_answering.jpeg
-  overlay_filter: 0.5
-  caption: 
+  image: /images/posts/question_answering.jpg
 ---
-
-# **Simple Question Answering API using spaCy and nmslib**
 
 Question answering is very popular task in NLP. Each routine agent work can be replaced using such system. 
 So imagine you have a list of frequently asked questions and it's answers. Then you can easily automate the job

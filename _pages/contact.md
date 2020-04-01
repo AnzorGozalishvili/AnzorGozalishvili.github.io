@@ -6,7 +6,7 @@ layout: single
 classes: wide
 author_profile: true
 header:
-    image: /images/pages/nesa-by-makers-N6e9cnOMXEk-unsplash.jpg
+    image: /images/pages/nesa-by-makers-N6e9cnOMXEk-unsplash.png
 ---
 <style>
     .google-maps {

@@ -5,12 +5,10 @@ category: NLP
 abstract: "Idea of automatic tagging of relevant phrases in semantic search results"
 
 header:
-  image: /images/posts/semantic_search.jpg
+  image: /images/posts/semantic_search.png
   overlay_filter: 0.5
   caption:
 ---
-
-# **Relevant Phrase Tagging in Semantic Search**
 
 ## Motivation
 

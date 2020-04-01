@@ -5,13 +5,10 @@ category: NLP
 abstract: "Review of recent keyword extraction techniques and their ready to use examples."
 
 header:
-  image: /images/posts/keyword_extraction.jpeg
+  image: /images/posts/keyword_extraction.png
   overlay_filter: 0.5
   caption:
 ---
-
-# **Recent Keyword Extraction Techniques**
-
 ## Motivation
 
 Recently I got interested in keyword extraction problem in NLP. For about 2 weeks I read many papers about recent 
