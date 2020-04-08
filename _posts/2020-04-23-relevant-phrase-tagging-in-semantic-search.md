@@ -6,6 +6,7 @@ abstract: "Idea of automatic tagging of relevant phrases in semantic search resu
 
 header:
   image: /images/posts/semantic_search.png
+  teaser: /images/posts/semantic_search.png
   overlay_filter: 0.5
   caption:
 ---

@@ -6,6 +6,7 @@ abstract: "Why I decided to start writing blogs"
 
 header:
   image: /images/posts/first_swallow.png
+  teaser: /images/posts/first_swallow.png
   overlay_filter: 0.5
   caption:
 ---

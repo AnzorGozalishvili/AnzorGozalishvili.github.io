@@ -6,6 +6,7 @@ abstract: "Review of recent keyword extraction techniques and their ready to use
 
 header:
   image: /images/posts/keyword_extraction.png
+  teaser: /images/posts/keyword_extraction.png
   overlay_filter: 0.5
   caption:
 ---

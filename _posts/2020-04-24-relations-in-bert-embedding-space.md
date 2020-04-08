@@ -6,6 +6,7 @@ abstract: "Trying to understand relations between texts in BERT embedding space.
 
 header:
   image: /images/posts/embedding_space.png
+  teaser: /images/posts/embedding_space.png
   overlay_filter: 0.5
   caption:
 ---

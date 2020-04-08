@@ -6,6 +6,7 @@ abstract: "Simple Example of building question answering API using spaCy and nms
 
 header:
   image: /images/posts/question_answering.jpg
+  teaser: /images/posts/question_answering.jpg
 ---
 
 Question answering is very popular task in NLP. Each routine agent work can be replaced using such system. 
