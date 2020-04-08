@@ -271,13 +271,18 @@ compress_html:
   ignore:
     envs: development
 
+# define collections
+collections:
+  events:
+    output: true
+    permalink: /:collection/:path/
 
 # Defaults
 defaults:
   # _posts
   - scope:
       path: ""
-      type: posts
+      type: pages
     values:
       layout: single
       author_profile: true
@@ -297,7 +302,9 @@ defaults:
 
   # _events
   - scope:
-      path: "/_events/"
+      path: ""
       type: events
     values:
       layout: single
+      author_profile: True
+      share: true
