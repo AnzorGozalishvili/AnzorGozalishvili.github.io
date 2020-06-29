@@ -43,6 +43,30 @@ You have 4 H1 headings. You may want to use the "H1 -> H2" option to demote all 
 
 
 2018 - PRESENT
+*   Document Data Extraction
+    *   Details:
+        *   Analysing documents using OCR
+        *   Formatting OCR texts of complex documents (printed, tabular, handwritten)
+        *   Detecting specific data points using Deep Learning Models
+        *   Create UI for viewing and editing extracted results
+        *   Automatic data labeling from UI from user actions
+        *   Continuous learning of data extraction models
+    *   Libraries:
+        *   Python, spaCy, Pandas, Flask, Huggingface Transformers, Pytorch
+    *   Technologies:
+        *   ELK Stack, Docker, AWS (EC2, S3)
+*   Semantic Search Engine
+    *   Details:
+        *   Preprocessing of specific domain dataset
+        *   Unsupervised Keyword Extraction from documents
+        *   Feature importance based automatic keyword extraction
+        *   Fragmentation and Indexing using Contextual Embeddings
+        *   Two step hybrid search engine using dense vectors and keyword matching
+        *   Continuous learning of keyword extraction 
+    *   Libraries:
+        *   Python, spaCy, Sentence Transformers, sifrank (unsupervised keyword extraction), Pytorch
+    *   Technologies:
+        *   ELK Stack, Docker, AWS (EC2, S3)
 
 *   Community posts and customer chat analysis
     *   Details:
