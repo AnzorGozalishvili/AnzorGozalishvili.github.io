@@ -21,7 +21,7 @@ title_separator: "-"
 subtitle: # site tagline that appears below site title in masthead
 name: "Anzor Gozalishvili"
 description: "Personal Work and Ideas in Data Science and Machine Learning"
-url: "https://anz2.blog" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url: "https://anz2.website" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl: "/" # the subpath of your site, e.g. "/blog"
 repository: "AnzorGozalishvili/AnzorGozalishvili.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser: "/images/pages/ai_style_transfer.jpg" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
