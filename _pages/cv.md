@@ -37,7 +37,7 @@ You have 4 H1 headings. You may want to use the "H1 -> H2" option to demote all 
 
 # WORKING EXPERIENCE
 
-## **MaxinAI (AI solutions for enterprises)_ — Lead Machine Learning Researcher, Data Scientist and AI Consultant_**
+## **MaxinAI (AI solutions for enterprises) — Lead Machine Learning Researcher, Data Scientist and AI Consultant**
 
 
 2021 (April) - PRESENT
@@ -68,7 +68,7 @@ You have 4 H1 headings. You may want to use the "H1 -> H2" option to demote all 
     *   Technologies:
         *   AWS (EC2, S3, RS)
 
-## **DeliveryHero (Outstaff from MaxinAI to Netguru)_ — Data Scientist _**
+## **DeliveryHero (Outstaff from MaxinAI to Netguru) — Data Scientist**
 
 
 2021 (January) - 2021(March) 
