@@ -26,23 +26,72 @@ You have 4 H1 headings. You may want to use the "H1 -> H2" option to demote all 
 
 # SKILLS
 
-
-
-*   **Personal:** Problem solving oriented, Experienced in research and quick learning, Work under pressure and meet tight deadlines, dedicated and responsible.
-*   **Machine Learning:** Machine learning Algorithms, implementing contemporary research papers, Computer Vision, Natural Language Processing algorithms, Generative Models and Recommender Systems. Experienced  in ML/DL model interpretation.
-*   **Libraries, Frameworks**: PyTorch, Tensorflow, Keras, Fastai, Scikit-learn, spaCy, NLTK, Pandas, XGBoost, Catboost, LightGBM, Anaconda.
-*   **Software development:** Python, C++ 
-*   **Databases, Big data:** PostgreSQL, MongoDB, ELK Stack, AWS S3
-*   **Development environment:** Git, Jira, IntelliJ IDEA
+*   **Personal**: Problem solving oriented, Experienced in research and quick learning, Work under pressure and meet tight deadlines, dedicated and responsible. Great Initiator with strong beliefs.
+*   **Machine Learning**: Machine learning Algorithms, implementing contemporary research papers, Computer Vision, Natural Language Processing algorithms, Generative Models and Recommender Systems. Experienced  in ML/DL model interpretation.
+*   **Libraries, Frameworks**: PyTorch, Tensorflow, Keras, Fastai, Scikit-learn, Pycaret, spaCy, NLTK, Pandas, XGBoost, Catboost, LightGBM, Anaconda.
+*   **Software development:** Python, C++
+*   **Databases, Big data**: PostgreSQL, MongoDB, ELK Stack, AWS S3, Amazon Redshift, Airflow, Google BigQuery
+*   **Development environment:** Git, Jira, IntelliJ IDEA, Wandb, MLflow, Sacred, Jupyter Notebook
 *   **Operating systems, networking:** Ubuntu, macOS, Shell scripts, Docker
 
+
 # WORKING EXPERIENCE
+
+## **MaxinAI (AI solutions for enterprises)_ — Lead Machine Learning Researcher, Data Scientist and AI Consultant_**
+
+
+2021 (April) - PRESENT
+
+*   Optimal Video Encoding (Research)
+    *   Details:
+        *   Collecting lossy and lossless video datasets and cutting scenes
+        *   Encoding scenes using HEVC codec
+        *   Analysing Bitrate Ladder for each scene
+        *   Analysing optimal CRF
+        *   Generating spatio-temporal features for CRF and Bitrate Ladder prediction
+        *   Training regression models
+        *   Feature Engineering and Feature Selection
+        *   Comparative analysis of existing SOTA and our approach
+        *   Writing Paper
+    *   Libraries:
+        *   Python, Pandas, scikit-learn, Pytorch, Pycaret, Keras, OpenCV, Scikit-Image, Scipy, ffmpeg, PIL, Seaborn, Matplotlib
+    *   Technologies:
+        *   AWS (EC2, S3), Docker,
+*   Automatic Trading on Crypto Market
+    *   Details:
+        *   Exploring and Analysing time series data
+        *   Interpolation of missing values with cross validated strategies
+        *   Testing various trading strategies on time series data
+        *   Generating new trading strategies
+    *   Libraries:
+        *   Python, Pandas, scikit-learn
+    *   Technologies:
+        *   AWS (EC2, S3, RS)
+
+## **DeliveryHero (Outstaff from MaxinAI to Netguru)_ — Data Scientist _**
+
+
+2021 (January) - 2021(March) 
+
+*   Marketing Tech
+    *   Details:
+        *   Writing Queries on Amazon Redshift and Google BigQuery to generate training data for models
+        *   Training classical and deep learning models for marketing solutions
+        *   Analysing model experiments and generating reports
+        *   Feature engineering and feature selection for improving models performance
+        *   Generating new solutions for marketing problems
+        *   Generating Airflow DAGs for ML pipeline
+    *   Libraries:
+        *   Python, SQL, Pandas,Scikit-Learn, Tensorflow, Keras
+    *   Technologies:
+        *   Docker, AWS (EC2, S3, RS, SageMaker), Google BQ, Airflow
+
 
 
 ## **MaxinAI (AI solutions for enterprises) — Lead ML Engineer and Data Scientist**
 
 
-2018 - PRESENT
+2018 - 2021(September)
 *   Document Data Extraction
     *   Details:
         *   Analysing documents using OCR
@@ -89,18 +138,6 @@ You have 4 H1 headings. You may want to use the "H1 -> H2" option to demote all 
         *   Python, Scrapy, Numpy, Pandas, FuzzySet, Textract, SQL, Pymongo, flask
     *   Technologies:
         *   MongoDB, ELK Stack
-*   Menu recommender system for food startup
-    *   Details:
-        *   Creating English Language model for food domain
-        *   Training Scikit-Learn and Deep Learning classifiers for predicting diet, cuisine, drinks, alcohol etc.
-        *   Collecting general ingredients information and creating taxonomy
-        *   Feature extraction from food descriptions using combined (fuzzy and embedding) search method.
-        *   Creating initial state profile for users based on questionnaire (solution for cold-start problem)
-        *   Creating item-to-item recommendation system based on extracted food item features and user’s ratings 
-    *   Libraries:
-        *   Python, Scrapy, Numpy, Pandas, Scikit-Learn, FuzzySet, Textract, Pytorch, FastAI, Gensim, NLTK, Spacy, Docker, SQL, Pymongo, flask, Flask-RESTful
-    *   Technologies:
-        *   MongoDB, Jenkins, Redmine
 *   Information extraction from Amazon products images
     *   Details:
         *   Using available Google and Abbyy OCR engines  to extract texts from amazon product images
@@ -113,6 +150,18 @@ You have 4 H1 headings. You may want to use the "H1 -> H2" option to demote all 
         *   Python, Scrapy, Numpy, Pandas, FuzzySet, Scikit-Learn, Textract, Pytorch, FastAI, Gensim, NLTK, Spacy, Docker, SQL, Pymongo, flask
     *   Technologies:
         *   MongoDB, Jira
+*   Menu recommender system for food startup
+    *   Details:
+        *   Creating English Language model for food domain
+        *   Training Scikit-Learn and Deep Learning classifiers for predicting diet, cuisine, drinks, alcohol etc.
+        *   Collecting general ingredients information and creating taxonomy
+        *   Feature extraction from food descriptions using combined (fuzzy and embedding) search method.
+        *   Creating initial state profile for users based on questionnaire (solution for cold-start problem)
+        *   Creating item-to-item recommendation system based on extracted food item features and user’s ratings 
+    *   Libraries:
+        *   Python, Scrapy, Numpy, Pandas, Scikit-Learn, FuzzySet, Textract, Pytorch, FastAI, Gensim, NLTK, Spacy, Docker, SQL, Pymongo, flask, Flask-RESTful
+    *   Technologies:
+        *   MongoDB, Jenkins, Redmine
 *   Extracting numbers from financial texts(Bloomberg, Market News)
     *   Details:
         *   Scraping bank news records
