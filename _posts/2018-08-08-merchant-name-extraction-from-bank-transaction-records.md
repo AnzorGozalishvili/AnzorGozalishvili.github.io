@@ -8,7 +8,7 @@ abstract: "Extraction of Merchant names from textual dataset using Different Dee
 
 # Introduction
 Bank transaction record contains encoded information about one transaction. It looks something like that:
-![png](/images/posts/merchant-name-extraction-from-bank-transaction-records/bank_transaction_sample.png)
+![png](/images/posts/merchant_name_extraction_from_bank_transaction_records/bank_transaction_sample.png)
 
 1. Transaction keywords: CHECKCARD, PURCHASE
 2. Location: CA ATLANTA
@@ -58,8 +58,8 @@ After training on several epochs I got results:
 # Training CNN
 First text encoding should have been defined. I used and idea from the blog by by Daniel C. LaCombe, Jr. I encoded all texts like that. CNN model has two output: start and end indices of merchant in text.
 CNN architecture looked like that:
-![png](/images/posts/merchant-name-extraction-from-bank-transaction-records/merchant_extraction_model_architecture_diagram.png)
-![png](/images/posts/merchant-name-extraction-from-bank-transaction-records/merchant_extraction_model_architecture_diagram_2.png)
+![png](/images/posts/merchant_name_extraction_from_bank_transaction_records/merchant_extraction_model_architecture_diagram.png)
+![png](/images/posts/merchant_name_extraction_from_bank_transaction_records/merchant_extraction_model_architecture_diagram_2.png)
 
 After training on several epochs I got results:
 - Train: 99.1%
@@ -67,7 +67,7 @@ After training on several epochs I got results:
 - Test:97.1%
 
 # Comparing Models (RNN vs CNN)
-![png](/images/posts/merchant-name-extraction-from-bank-transaction-records/merchant_extraction_compare_rnn_and_cnn.png)
+![png](/images/posts/merchant_name_extraction_from_bank_transaction_records/merchant_extraction_compare_rnn_and_cnn.png)
 
 # Conclusions
 - There are many ways to solve merchant name detection problem and all solutions have their pros and cons.
