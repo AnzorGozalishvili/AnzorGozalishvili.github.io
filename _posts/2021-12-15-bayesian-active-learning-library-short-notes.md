@@ -52,7 +52,13 @@ There are several modules that are handling the whole process of Active Learning
 
 # References
 https://github.com/ElementAI/baal
+
 https://jacobgil.github.io/deeplearning/activelearning#batchbald (great Blog on Active Learning)
+
 https://baal.readthedocs.io/en/latest/ (official documentation)
+
 https://arxiv.org/abs/2006.09916 (ElementAI paper about BaaL)
+
 https://www.elementai.com/news/2019/element-ai-makes-its-bayesian-active-learning-library-open-source (BaaL presentation by ElementAI)
+
+https://www.elementai.com/news/2020/road-defect-detection-using-deep-active-learning (Interesting use case of BaaL)
