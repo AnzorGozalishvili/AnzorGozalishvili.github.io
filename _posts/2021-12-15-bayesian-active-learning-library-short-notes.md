@@ -9,7 +9,7 @@ header:
   teaser: /images/posts/baal_logo.png
 ---
 
-# Introduction
+
 In this document I will try to briefly cover the basic details of this library.
 
 # List of Modules in BAAL
