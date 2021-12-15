@@ -10,7 +10,7 @@ header:
 ---
 
 
-In this document I will try to briefly cover the basic details of this library.
+I will try to briefly cover the basic details of this library.
 
 # List of Modules in BAAL
 There are several modules that are handling the whole process of Active Learning.
