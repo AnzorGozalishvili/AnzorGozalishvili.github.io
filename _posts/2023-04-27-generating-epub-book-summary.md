@@ -5,8 +5,8 @@ category: NLP
 abstract: "How I summarized book to speed up book review"
 
 header:
-  image: /images/posts/unsupervised_aspect_based_sentiment_analysis.jpg
-  teaser: /images/posts/unsupervised_aspect_based_sentiment_analysis.jpg
+  image: images/posts/generating-epub-book-summary.jpeg
+  teaser: images/posts/generating-epub-book-summary.jpeg
 ---
 Summarization is very fun thing. You can save a lot of time by reading book summaries especially when understanding 
 general ide is good enough. 
@@ -45,7 +45,8 @@ In this chapter, Tommo explains three kinds of space: boundless space, defined s
 In this chapter, the narrator explains how people use words to communicate. The word "friend" is innocent enough but what power does it have in this context? An example of architecture that is pregnant and meaningless is the roof. It was used extensively in France during the 17th century as a symbol of franklin Mansart. Today, however, it has become a common term for a fast food restaurant. On the inside, the parts must serve a purpose, but as we look outside, buildings frame us and convey emotions. There are cathedrals, steeply pitched roofs, and arches. All these elements express moods and sentiments.
 ### Architectural Grammar
 
-The narrator uses the example of a house as an example of how buildings are constructed. Each room is the building block of the design, and each room must respond to the action it expresses. There are many different types of doorways and windows that can be used to create different kinds of movement between rooms. Some doors become so wide that they completely occupy the edge of the room; others are so small that they blur the line between indoor and outdoor. Sometimes there is also a direct connection between languages. For example, in the Persian word "paradize," the word derives from the word "walled garden." In this instance, the language has evolved to convey the feeling of such a garden because of the way it is protected from the elements. Other words like "walled garden" and "exciting features" have also become part of the English language. These words serve as prose for the architecture.## Lesson Two
+The narrator uses the example of a house as an example of how buildings are constructed. Each room is the building block of the design, and each room must respond to the action it expresses. There are many different types of doorways and windows that can be used to create different kinds of movement between rooms. Some doors become so wide that they completely occupy the edge of the room; others are so small that they blur the line between indoor and outdoor. Sometimes there is also a direct connection between languages. For example, in the Persian word "paradize," the word derives from the word "walled garden." In this instance, the language has evolved to convey the feeling of such a garden because of the way it is protected from the elements. Other words like "walled garden" and "exciting features" have also become part of the English language. These words serve as prose for the architecture.
+## Lesson Two
 
 Chapter 30D's trainsesp beef heroif .Pota on the trail Reelfast1shekReelt
 ### MAKING THE HOUSE A HOME
@@ -62,7 +63,8 @@ Basically, the architect thinks in terms of space more than objects when they cr
 In this chapter, we're introduced to the concept of human scale in architecture. It's used to create buildings that reflect the size of people. For example, a room with a big enough dining table might be awkward for Fred because his friends won't be able to enjoy eating there. Instead, hotel owners use trees and ficus to create a more realistic ceiling.
 ### How to “People” Spaces
 
-In this chapter, we learn how to create people-friendly spaces. Mr. Lorry Lyndon, an architect at the university, taught a lecture on how to "people" spaces. He explained that it was important to make for comfortable places where people could live and work. He also talked about windows of appearance, which were windows with proportions that hint at someone's presence. Another way to create space for people is to include materials that indicate another person in the creation. This includes wood, stone, and other natural materials. People love these things because they feel like they are part of something larger than themselves. They can imagine themselves sitting in chairs or standing on top of a wall. Finally, he talks about creating places for people to interact without planning. These places might be enclosed or have walls surrounding them. A terrace would be more comfortable since there are plants around it. The fourth method of peopling would be to include human handwork in their creation. If you want to paint or have been cleaned recently, you need to do so. But many items fall short in aesthetics because they don't require any attention from humans. It seems counterintuitively that some items tend to get neglected. So instead, people go to trade fairs and find all sorts of interesting things. There are lots of different kinds of artifacts that remind us of our family. One thing that makes houses feel right is the sense that everything is right-sized and appropriate for its uses. That's what makes a home feel right.## Lesson Three
+In this chapter, we learn how to create people-friendly spaces. Mr. Lorry Lyndon, an architect at the university, taught a lecture on how to "people" spaces. He explained that it was important to make for comfortable places where people could live and work. He also talked about windows of appearance, which were windows with proportions that hint at someone's presence. Another way to create space for people is to include materials that indicate another person in the creation. This includes wood, stone, and other natural materials. People love these things because they feel like they are part of something larger than themselves. They can imagine themselves sitting in chairs or standing on top of a wall. Finally, he talks about creating places for people to interact without planning. These places might be enclosed or have walls surrounding them. A terrace would be more comfortable since there are plants around it. The fourth method of peopling would be to include human handwork in their creation. If you want to paint or have been cleaned recently, you need to do so. But many items fall short in aesthetics because they don't require any attention from humans. It seems counterintuitively that some items tend to get neglected. So instead, people go to trade fairs and find all sorts of interesting things. There are lots of different kinds of artifacts that remind us of our family. One thing that makes houses feel right is the sense that everything is right-sized and appropriate for its uses. That's what makes a home feel right.
+## Lesson Three
 
 Chapter 18ElseatedL toGp-h'schemeWagH.sotFinelyRituCavaboutezdowncollow
 ### UNIFYING THE DESIGN
@@ -100,7 +102,8 @@ In this chapter, the narrator gives us a simple warning: to be careful of style.
 Often, when clients ask for help in finding an architect, they are surprised that they don't know anyone who can design the house they want. In this chapter, Tommo shows how he uses his experience in designing houses in Hawaii to create a unique and authentic house. He takes advantage of his knowledge of the island to understand what the client wants and then combine it with the needs of the home. The result is a two-story house that looks like it was built in the 1900s but retains its integrity.
 ### But My Builder Says He Can’t Do That
 
-In this chapter, Jim explains how everyone on the construction team plays a part in the project. From the start, every single person on the builder's team must play a role. It is important to remember that each of these people has a different role to play: the builders are skilled and knowledgeable, but they don't necessarily answer those "what if" questions. The architect is the one who deals with ideas and possibilities. He will not be afraid to tell you something bad about it. But even if your builder does want to do it, he won't always agree with what you ask for. Sometimes, however, an idea can turn out to be really interesting. That is, when the entire building team is engaged and invested in the final product, good ideas crop up from the sub-contractors,the builder, and the architect.## Lesson Four
+In this chapter, Jim explains how everyone on the construction team plays a part in the project. From the start, every single person on the builder's team must play a role. It is important to remember that each of these people has a different role to play: the builders are skilled and knowledgeable, but they don't necessarily answer those "what if" questions. The architect is the one who deals with ideas and possibilities. He will not be afraid to tell you something bad about it. But even if your builder does want to do it, he won't always agree with what you ask for. Sometimes, however, an idea can turn out to be really interesting. That is, when the entire building team is engaged and invested in the final product, good ideas crop up from the sub-contractors,the builder, and the architect.
+## Lesson Four
 
 Chapter 26) intollures, foretell that, bedealantes, plans.gpture theItretegi whyi makegedo isup
 ### INTO THE DEPTHS OF DESIGN
@@ -129,7 +132,8 @@ In this chapter, the narrator explains how flow and order in a house work. He us
 In this chapter, we get a closer look at how light is used in the house. He discusses how people are comfortable in rooms with windows on both sides and how they can use artificial light to create different levels of light. For instance, a dining-room might have five different kinds: a chandelier over the table; a dimmer switch over the dining room; recessed lighting near the ceiling; wall Sconces; and a fifth type of lighting known as "layering" that uses switches to control the intensity of the light. When the guests arrive at a party, the dining hall will be lit up all night with all five types of light giving the feeling of beauty and dramatic activity. Then when the guests leave, the dinner room will be set up with all Five Types of Light contributing to the Feel of Beauty and Drama
 ### The Third Dimension
 
-In this chapter, the narrator explains some of the common mistakes that people make when they start to plan a house. These mistakes include using too many different colors and materials in one house, making too much of a single wall, using too much window space, etc.## Lesson Five
+In this chapter, the narrator explains some of the common mistakes that people make when they start to plan a house. These mistakes include using too many different colors and materials in one house, making too much of a single wall, using too much window space, etc.
+## Lesson Five
 
 Chapter 15-rowsignsquode.editionFerriar1s BetHeureaecdaves and of
 ### WHAT WILL YOUR HOUSE BE?
@@ -155,7 +159,8 @@ The other two people who may play an important part in the planning of your home
 In this chapter, Linda explains how the concept of "psemi-design/ build" works. She calls it a one-stop shop for a new house. The difference between these two types of shopping is that you don't have to hire an architect, interior designer, or landscaper; instead, you get a single agreement with the design company. You can do whatever you want with the house, but there will be no guarantees. If you like the plan, however, you won't be happy until you find out that the builder actually has something in mind for your needs. There are other options: A completely custom-built house from an independent architect can also be arranged. This type of arrangement involves both the design services and the construction of the home.
 ### Site Unseen
 
-The first step in the house planning process is to choose a site. This will allow you to see exactly how the house will fit on the lot, and it will also give you an idea of what the house can look like before it is built. As you work with your architect, you will begin to realize how wonderful Your Perfect House truly is.## Lesson Six
+The first step in the house planning process is to choose a site. This will allow you to see exactly how the house will fit on the lot, and it will also give you an idea of what the house can look like before it is built. As you work with your architect, you will begin to realize how wonderful Your Perfect House truly is.
+## Lesson Six
 
 Back at the Eightstead.scratch, we got some more time off:had ut- enough-the other night?ite'd be chillin' back home;bor
 ### MAKE PLANS BEFORE DRAWING PLANS
@@ -172,7 +177,8 @@ The next step is to figure out how much the house will cost. Start by asking you
 In this chapter, Jim explains how people are starting to think about building "green" houses. He uses an example of a French country house that cost only $100 per month for heat and cool but was well-planned and built with energy-efficiency in mind. This isn't just any house; it's also a good way to make sure that you're using as much energy as possible. It's important to have proper planning and materials in place so that the house can be built efficiently. The most important thing to do is to get your house on the right site. There are lots of different kinds of mechanical systems out there, but they all work very well because they provide enough airflow and sound. So many more things can be done behind the scenes to help save money. For example, some power companies offer residential customers a choice between switching from a high-rate residential bill to a lower-rate demand bill. This will save them about one third on their electricity bill and contribute to less pollution by the power plants. You can build a whole lot of these things while saving money at the same time.
 ### Sidewalk Superintendents
 
-The first thing the narrator wants to tell us is that there's one method of controlling the cost of building your house that doesn't really work. For example, sometimes people get excited about building and want to tour their house without consulting their architect or make sure they don't change things too much. That way, when the builder comes to talk to the subcontractors on the jobsite, they won't be surprised by how much more expensive it would be to do the same thing. In other words, what might seem like an easy conversation between the owner and his subcontractor may actually end up costing you more than it actually is. This is why the best strategy for keeping control over costs is to avoid talking to anyone but your architect/builder. It's better to have a few "casual conversations" with the subconsequences instead of trying to figure out how much money they're going to spend on a house just by talking to them.## Lesson Seven
+The first thing the narrator wants to tell us is that there's one method of controlling the cost of building your house that doesn't really work. For example, sometimes people get excited about building and want to tour their house without consulting their architect or make sure they don't change things too much. That way, when the builder comes to talk to the subcontractors on the jobsite, they won't be surprised by how much more expensive it would be to do the same thing. In other words, what might seem like an easy conversation between the owner and his subcontractor may actually end up costing you more than it actually is. This is why the best strategy for keeping control over costs is to avoid talking to anyone but your architect/builder. It's better to have a few "casual conversations" with the subconsequences instead of trying to figure out how much money they're going to spend on a house just by talking to them.
+## Lesson Seven
 
 Chapter Twenty-eight all or nothings, a.k.a.dies --demusellumentments)tion's and
 ### CHOOSING THE PERFECT SITE
@@ -207,7 +213,8 @@ In the first few chapters of this book, you will learn about some of the most co
 This chapter discusses the concept of crisis and opportunity. It applies to lots that are not in line with the typical expectations of builders, home buyers, and architects. Sometimes there will be lots that don't meet these expectations. These lots can actually provide exciting opportunities for houses on unusual lots. If you have a lot that doesn't fit into your standard building footprint, it might be time to buy it. Don't worry, though; problem lots can save you money because they get passed over without imagination.
 ### Reading a Site Plan
 
-In this lesson, we're going to take a closer look at the importance of having a proper site plan. A good site plan will give you all the details you need about the property and its location. It also gives you an idea of how the house will be set up.## Lesson Eight
+In this lesson, we're going to take a closer look at the importance of having a proper site plan. A good site plan will give you all the details you need about the property and its location. It also gives you an idea of how the house will be set up.
+## Lesson Eight
 
 Chapter 20American and toado" .illumerated important," left over befitting everything else,"lest we 
 ### PROGRAMMING THE HOUSE
@@ -230,7 +237,8 @@ The narrator tells us that style is just one of many things to be considered in 
 The purpose of the house design is to create an elegant, well-furnished home that meets all of your desires at a reasonable price. In addition, the house will be much more comfortable and secure than one that is built on a tight budget.
 ### A Reality Test
 
-In this chapter, the narrator describes how he uses cost per squarefoot to calculate the cost of building a house. He starts by assigning each room a hypothetical amount of space and then multiplying the total square feet by the cost per foot to get an accurate cost figure. An elevator is one expense that many people want to save money on, but it can also be advantageous when paying for it. If the floor plan does not match your budget, it will be difficult to determine what the actual cost will be. It is better to talk to your architect before you start planning so that they can help you figure out exactly how much the house will cost than to wait until later to find out how much it will actually cost.## Lesson Nine
+In this chapter, the narrator describes how he uses cost per squarefoot to calculate the cost of building a house. He starts by assigning each room a hypothetical amount of space and then multiplying the total square feet by the cost per foot to get an accurate cost figure. An elevator is one expense that many people want to save money on, but it can also be advantageous when paying for it. If the floor plan does not match your budget, it will be difficult to determine what the actual cost will be. It is better to talk to your architect before you start planning so that they can help you figure out exactly how much the house will cost than to wait until later to find out how much it will actually cost.
+## Lesson Nine
 
 Back at his office Bastille, Mr. BardolphIntomulct rambledly upon the various things England court Bass
 ### PUTTING PENCIL TO PAPER
@@ -244,7 +252,8 @@ The architect begins to sketch out the various rooms in the house, using bubbles
 In this chapter, the narrator explains how to plan a house so that it has the largest space possible. He starts by describing how people usually want a large garage and then proceeds to explain how you should plan for it.
 ### It’s a Sequential Thing
 
-In this chapter, we're going to walk through the entire process of building a house. First, we need to figure out where the garage will be located. Next, we want to figure things out about how people will live in the house. Then, we get to the big rooms: the kitchen, dining room, and other communal areas. This is all part of the whole planning process. It's not just about making sure everything is okay; it's also about creating the illusion of space. We don't know yet what the final product will look like yet, but we can definitely start thinking about it now.## Lesson Ten
+In this chapter, we're going to walk through the entire process of building a house. First, we need to figure out where the garage will be located. Next, we want to figure things out about how people will live in the house. Then, we get to the big rooms: the kitchen, dining room, and other communal areas. This is all part of the whole planning process. It's not just about making sure everything is okay; it's also about creating the illusion of space. We don't know yet what the final product will look like yet, but we can definitely start thinking about it now.
+## Lesson Ten
 
 Chapter 24:Refessor-- and his "obscroughly amused"ugled'civiliaria
 ### DESIGNING THE HOUSE
@@ -288,7 +297,8 @@ The narrator goes on to explain how windows work as part of a building and how t
 The narrator warns us that too often, in house design, we see excessive use of heavy materials like stone and brick above lighter, more permanent materials like wood. This is because there is no supporting frame for the heavy materials. Instead, heavy materials are the foundation and first walls of the house; they should be supported by thicker, stronger materials like concrete or stone. In other words, you can build a house that weighs twice as much as it actually is.
 ### Chimneys Are Spatial Markers
 
-In this chapter, we continue to discuss the use of chimneys as symbols of space. They can be used as a bookend to a house and they can even serve as concealments from roof vents and pipes.## Lesson Eleven
+In this chapter, we continue to discuss the use of chimneys as symbols of space. They can be used as a bookend to a house and they can even serve as concealments from roof vents and pipes.
+## Lesson Eleven
 
 "Lorad's, it seems," and/or--totally intended as herald goes something like that: this--that is-- she comes to mean the guy who hasn't-- yet.
 ### THINKING THROUGH THE PLACES WHERE YOU LIVE
@@ -329,7 +339,8 @@ In this chapter, Tommo explains how he gets his clients to worry about adding so
 In this chapter, Linda lays out some universally-requited considerations that will help you age comfortably in your perfect house. These considerations are not requirements but simply food for thoughts. The first thing to do is to plan out how the house will be set up so that people who live there can easily move in and out of it. For example, a family would like to have a room that could serve as a home for their elderly parents or other family members who might need additional care.
 ### Design Tidbits
 
-In this chapter, Frankenstein lays out some of his tips for building a perfect house. First, make sure you have plenty of room to work with. Second, think about where you want your entertainment system so you don't have to stand in front of it while everyone else is doing their work. Third, figure out how much space you need for the new home. Finally, ask your builder to order extra brick, stone, or other items that will last you years if you ever need them.## Lesson Twelve
+In this chapter, Frankenstein lays out some of his tips for building a perfect house. First, make sure you have plenty of room to work with. Second, think about where you want your entertainment system so you don't have to stand in front of it while everyone else is doing their work. Third, figure out how much space you need for the new home. Finally, ask your builder to order extra brick, stone, or other items that will last you years if you ever need them.
+## Lesson Twelve
 
 "Race for the end of your showra-seri. bye"?"really, don1t be so hot
 ### OH, YES…THE BUDGET
@@ -361,7 +372,8 @@ The retainage is a percentage that the builder takes from your monthly payment r
 In this chapter, we discuss three different types of contract: fixed sum contracts, cost plus an hourly fee, and Cost plus a percent. A fixed-sum contract gives you assurance that all the costs will be correct, but it does not guarantee that everything will be exactly how the builder expected it to be. The most common type of cost-plus contract is one with a percentage, which means that all expenses can fluctuate according to the actual builder's estimates.
 ### Where Do We Go from Here?
 
-This is the end of the book, but it doesn't quite end the entire process of building a house. It's still early in the construction phase, so let's check back in a bit. First things first: make sure you have all your options and follow through with everything you do. Next, take advantage of all the new tricks and tips that will help you get exactly what you want out of your new home.## Bonus Lesson
+This is the end of the book, but it doesn't quite end the entire process of building a house. It's still early in the construction phase, so let's check back in a bit. First things first: make sure you have all your options and follow through with everything you do. Next, take advantage of all the new tricks and tips that will help you get exactly what you want out of your new home.
+## Bonus Lesson
 
 Back at the1at1s I-95...yayanoragoed.irdecteristics.bummer ck
 ### BUILDING GREEN, NATURALLY
