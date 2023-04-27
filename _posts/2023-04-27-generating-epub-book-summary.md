@@ -400,4 +400,10 @@ The fourth step of green building is to use renewable energy. It can be used to 
 
 
 # Conclusions
-todo: read summary and put conclusions later.
+It took me 2 hour to read and remind the general things discussed in this book. It helped me quite well and was fast.
+It took me around 2 weeks and 2 hours per day to read entire book which means that summary allowed me to review 
+entire book 14 times faster.
+The summary of each chapter was good enough to catch the main idea because I have read entire book. 
+I would put 7 / 10 for this summarization result since sometimes it was having some inconsistencies which I was able to
+catch easily.
+It would be interesting to see the experience of others who hasn't read the book.
