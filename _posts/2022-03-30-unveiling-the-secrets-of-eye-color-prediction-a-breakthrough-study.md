@@ -35,7 +35,7 @@ These findings have far-reaching implications for forensic DNA phenotyping. The 
 
 However, the study also underscores the need for further research to improve the IrisPlex model's performance, especially concerning non-blue and non-brown eye colors. One promising avenue is the inclusion of epigenetic markers, which could enhance the model's predictive accuracy and address the challenges of intermediate shades.
 
-##Conclusion
+## Conclusion
 
 In conclusion, the study by Paparazzo and her colleagues represents a significant step forward in the field of forensic DNA phenotyping. Their innovative approach to eye color prediction offers a more objective and accurate method, holding promise for future forensic investigations. While the IrisPlex system excels in predicting certain eye colors, it still has room for improvement, particularly for those with intermediate shades. This research not only contributes to our understanding of eye color genetics but also paves the way for more precise and effective DNA intelligence tools in criminal investigations.
 
