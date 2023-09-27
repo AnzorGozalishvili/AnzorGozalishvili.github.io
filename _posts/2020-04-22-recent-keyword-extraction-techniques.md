@@ -10,7 +10,6 @@ header:
   overlay_filter: 0.5
   caption:
 ---
-## Motivation
 
 Recently I got interested in keyword extraction problem in NLP. For about 2 weeks I read many papers about recent 
 techniques applied in that task and I want to do a short overview of what I found interesting and useful.

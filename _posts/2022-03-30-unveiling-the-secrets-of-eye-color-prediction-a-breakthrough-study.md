@@ -8,7 +8,6 @@ header:
   image: /images/posts/unveiling-the-secrets-of-eye-color-prediction-a-breakthrough-study/irisplex.jpg
   teaser: /images/posts/unveiling-the-secrets-of-eye-color-prediction-a-breakthrough-study/irisplex.jpg
 ---
-## Introduction
 
 Forensic DNA Phenotyping (FDP) has emerged as a cutting-edge field within forensic genetics, aimed at uncovering the physical traits of unknown individuals directly from biological samples found at crime scenes. This innovative approach has the potential to revolutionize criminal investigations by providing valuable clues to help law enforcement prioritize suspects and expedite cases. Among the externally visible characteristics (EVCs) that FDP can predict, eye color stands out as one of the most well-characterized and validated traits.
 

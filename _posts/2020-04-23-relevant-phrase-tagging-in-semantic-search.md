@@ -11,8 +11,6 @@ header:
   caption:
 ---
 
-## Motivation
-
 Once I was doing one project about semantic similarity search I got an idea of extracting important keywords from 
 search results. I applied one intuitive feature importance technique which worked well. I am gonna share this idea and 
 maybe someone will find it interesting and useful.
