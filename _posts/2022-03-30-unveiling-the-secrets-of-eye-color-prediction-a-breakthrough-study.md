@@ -39,5 +39,10 @@ However, the study also underscores the need for further research to improve the
 
 In conclusion, the study by Paparazzo and her colleagues represents a significant step forward in the field of forensic DNA phenotyping. Their innovative approach to eye color prediction offers a more objective and accurate method, holding promise for future forensic investigations. While the IrisPlex system excels in predicting certain eye colors, it still has room for improvement, particularly for those with intermediate shades. This research not only contributes to our understanding of eye color genetics but also paves the way for more precise and effective DNA intelligence tools in criminal investigations.
 
+---
+Written by [ChatGPT](https://chat.openai.com/) based on paper and some prompt engineering!
+
+
 ## References
 [Paparazzo, E., Gozalishvili, A., Lagani, V. et al. A new approach to broaden the range of eye colour identifiable by IrisPlex in DNA phenotyping. Sci Rep 12, 12803 (2022).](https://doi.org/10.1038/s41598-022-17208-w)
+
