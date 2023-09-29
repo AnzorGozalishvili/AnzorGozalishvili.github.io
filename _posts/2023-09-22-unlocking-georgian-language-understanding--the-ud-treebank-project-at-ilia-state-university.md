@@ -77,11 +77,11 @@ UDPipe (Universal Dependencies Pipeline) is a popular open-source tool for train
 In all cases, a higher score or percentage indicates better performance. These metrics help NLP practitioners and researchers assess the quality of their trained models and make improvements to optimize them for specific tasks or languages. The choice of which metrics to use may depend on the specific goals and requirements of the NLP application.
 
 ## Ground Truth Annotations Vs Model Predictions
-![title](/images/posts/unlocking-georgian-language-understanding:-the-ud-treebank-project-at-ilia-state-university/ground_truth_vs_model_predictions_1.png)
-![title](/images/posts/unlocking-georgian-language-understanding:-the-ud-treebank-project-at-ilia-state-university/ground_truth_vs_model_predictions_2.png)
-![title](/images/posts/unlocking-georgian-language-understanding:-the-ud-treebank-project-at-ilia-state-university/ground_truth_vs_model_predictions_3.png)
-![title](/images/posts/unlocking-georgian-language-understanding:-the-ud-treebank-project-at-ilia-state-university/ground_truth_vs_model_predictions_4.png)
-![title](/images/posts/unlocking-georgian-language-understanding:-the-ud-treebank-project-at-ilia-state-university/ground_truth_vs_model_predictions_5.png)
+![title](/images/posts/unlocking-georgian-language-understanding--the-ud-treebank-project-at-ilia-state-university/ground_truth_vs_model_predictions_1.png)
+![title](/images/posts/unlocking-georgian-language-understanding--the-ud-treebank-project-at-ilia-state-university/ground_truth_vs_model_predictions_2.png)
+![title](/images/posts/unlocking-georgian-language-understanding--the-ud-treebank-project-at-ilia-state-university/ground_truth_vs_model_predictions_3.png)
+![title](/images/posts/unlocking-georgian-language-understanding--the-ud-treebank-project-at-ilia-state-university/ground_truth_vs_model_predictions_4.png)
+![title](/images/posts/unlocking-georgian-language-understanding--the-ud-treebank-project-at-ilia-state-university/ground_truth_vs_model_predictions_5.png)
 
 ## Conclusion:
 The Georgian UD Treebank Development project at Ilia State University is a groundbreaking endeavor that holds the potential to transform the landscape of Georgian NLP. With dedicated contributors, promising model results, and the backing of the SHOTA RUSTAVELI NATIONAL SCIENCE FOUNDATION OF GEORGIA, the project is poised to become a cornerstone in advancing linguistic research and NLP tools for the Georgian language. Stay tuned for more updates and exciting developments as this project unfolds its full potential.
