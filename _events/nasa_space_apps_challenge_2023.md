@@ -33,6 +33,9 @@ header:
     <div class="image-item">
         <img src="/images/events/nasa_space_apps_challenge_2023/pictures/_DSC7649.jpg" alt="Anzor Gozalishvili">
     </div>
+    <div class="image-item">
+        <img src="/images/events/nasa_space_apps_challenge_2023/pictures/074A0282.jpg" alt="Anzor Gozalishvili">
+    </div>
 </div>
 
 <style>
@@ -46,6 +49,7 @@ header:
         text-align: center;
     }
 </style>
+
 
 
 
