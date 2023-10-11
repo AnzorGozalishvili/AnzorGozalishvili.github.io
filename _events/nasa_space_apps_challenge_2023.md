@@ -17,14 +17,35 @@ header:
 [presentation](/images/events/nasa_space_apps_challenge_2023/presentation.pdf)
 
 ## Event Pictures
-<div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px;">
-    ![Amiran Gozalishvili](/images/events/nasa_space_apps_challenge_2023/pictures/074A0282.jpg)
-    ![Hayk Asriyants](/images/events/nasa_space_apps_challenge_2023/pictures/074A0302.jpg)
-    ![Giorgi Jvaridze, Nino Macharashvili](/images/events/nasa_space_apps_challenge_2023/pictures/074A0320.jpg)
-    ![Anzor Gozalishvili](/images/events/nasa_space_apps_challenge_2023/pictures/074A0816.jpg)
-    ![All](/images/events/nasa_space_apps_challenge_2023/pictures/074A0833.jpg)
-    ![Anzor Gozalishvili](/images/events/nasa_space_apps_challenge_2023/pictures/_DSC7580.jpg)
-    ![Anzor Gozalishvili](/images/events/nasa_space_apps_challenge_2023/pictures/_DSC7649.jpg)
+<div class="image-grid">
+    <div class="image-item">
+        <img src="/images/events/nasa_space_apps_challenge_2023/pictures/074A0302.jpg" alt="Hayk Asriyants">
+    </div>
+    <div class="image-item">
+        <img src="/images/events/nasa_space_apps_challenge_2023/pictures/074A0320.jpg" alt="Giorgi Jvaridze, Nino Macharashvili">
+    </div>
+    <div class="image-item">
+        <img src="/images/events/nasa_space_apps_challenge_2023/pictures/074A0816.jpg" alt="Anzor Gozalishvili">
+    </div>
+    <div class="image-item">
+        <img src="/images/events/nasa_space_apps_challenge_2023/pictures/_DSC7580.jpg" alt="Anzor Gozalishvili">
+    </div>
+    <div class="image-item">
+        <img src="/images/events/nasa_space_apps_challenge_2023/pictures/_DSC7649.jpg" alt="Anzor Gozalishvili">
+    </div>
 </div>
+
+<style>
+    .image-grid {
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        gap: 10px;
+    }
+    
+    .image-item {
+        text-align: center;
+    }
+</style>
+
 
 
