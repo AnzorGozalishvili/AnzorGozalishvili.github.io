@@ -4,7 +4,7 @@ date: 2023/10/8
 
 tagline: "Participated in Nasa Space Apps Challenge 2023 with the team `Space-Born RNA`"
 header:
-    overlay_color: rgba(0, 10, 20, 0.5)
+    overlay_image: /images/events/nasa_space_apps_challenge_2023/pictures/074A0833.jpg
     teaser: /images/events/nasa_space_apps_challenge_2023/certificate.png
 ---
 ## Resources
@@ -18,13 +18,13 @@ header:
 
 ## Event Pictures
 <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px;">
-    ![title](/images/events/nasa_space_apps_challenge_2023/pictures/074A0282.jpg)
-    ![title](/images/events/nasa_space_apps_challenge_2023/pictures/074A0302.jpg)
-    ![title](/images/events/nasa_space_apps_challenge_2023/pictures/074A0320.jpg)
-    ![title](/images/events/nasa_space_apps_challenge_2023/pictures/074A0816.jpg)
-    ![title](/images/events/nasa_space_apps_challenge_2023/pictures/074A0833.jpg)
-    ![title](/images/events/nasa_space_apps_challenge_2023/pictures/_DSC7580.jpg)
-    ![title](/images/events/nasa_space_apps_challenge_2023/pictures/_DSC7649.jpg)
+    ![Amiran Gozalishvili](/images/events/nasa_space_apps_challenge_2023/pictures/074A0282.jpg)
+    ![Hayk Asriyants](/images/events/nasa_space_apps_challenge_2023/pictures/074A0302.jpg)
+    ![Giorgi Jvaridze, Nino Macharashvili](/images/events/nasa_space_apps_challenge_2023/pictures/074A0320.jpg)
+    ![Anzor Gozalishvili](/images/events/nasa_space_apps_challenge_2023/pictures/074A0816.jpg)
+    ![All](/images/events/nasa_space_apps_challenge_2023/pictures/074A0833.jpg)
+    ![Anzor Gozalishvili](/images/events/nasa_space_apps_challenge_2023/pictures/_DSC7580.jpg)
+    ![Anzor Gozalishvili](/images/events/nasa_space_apps_challenge_2023/pictures/_DSC7649.jpg)
 </div>
 
 
