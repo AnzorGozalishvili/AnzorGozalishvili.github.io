@@ -7,9 +7,13 @@ header:
     overlay_color: rgba(0, 10, 20, 0.5)
     teaser: /images/events/nasa_space_apps_challenge_2023/certificate.png
 ---
+## Resources
 [team](https://www.spaceappschallenge.org/2023/find-a-team/dea-has-covid/?tab=details)
+
 [repo](https://github.com/AnzorGozalishvili/NASA_ODSR_DATA/blob/main)
+
 [project](https://github.com/AnzorGozalishvili/NASA_ODSR_DATA/blob/main/nasa_challenge_project_description.md)
+
 [presentation](/images/events/nasa_space_apps_challenge_2023/presentation.pdf)
 
 ## Event Pictures
