@@ -25,16 +25,16 @@ header:
         <img src="/images/events/nasa_space_apps_challenge_2023/pictures/074A0320.jpg" alt="Giorgi Jvaridze, Nino Macharashvili">
     </div>
     <div class="image-item">
-        <img src="/images/events/nasa_space_apps_challenge_2023/pictures/074A0816.jpg" alt="Anzor Gozalishvili">
+        <img src="/images/events/nasa_space_apps_challenge_2023/pictures/074A0816.jpg" alt="Me with Prize">
     </div>
     <div class="image-item">
-        <img src="/images/events/nasa_space_apps_challenge_2023/pictures/_DSC7580.jpg" alt="Anzor Gozalishvili">
+        <img src="/images/events/nasa_space_apps_challenge_2023/pictures/DSC7580.jpg" alt="Me presenting">
     </div>
     <div class="image-item">
-        <img src="/images/events/nasa_space_apps_challenge_2023/pictures/_DSC7649.jpg" alt="Anzor Gozalishvili">
+        <img src="/images/events/nasa_space_apps_challenge_2023/pictures/DSC7649.jpg" alt="Me and Sesili (UNDP)">
     </div>
     <div class="image-item">
-        <img src="/images/events/nasa_space_apps_challenge_2023/pictures/074A0282.jpg" alt="Anzor Gozalishvili">
+        <img src="/images/events/nasa_space_apps_challenge_2023/pictures/074A0282.jpg" alt="Amiran Gozalishvili">
     </div>
 </div>
 
