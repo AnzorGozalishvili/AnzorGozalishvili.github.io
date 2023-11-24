@@ -59,9 +59,13 @@ In conclusion, it was both my pleasure and honor to be a part of this insightful
 
 ## Resources
 [Georgian UD](https://universaldependencies.org/ka/index.html)
+
 [Georgian UD Repo](https://github.com/UniversalDependencies/UD_Georgian-GLC)
+
 [From UD to New Language Models](/images/events/state_of_georgian_nlp_2023/from_ud_to_new_language_models.pdf)
+
 [NLP Talk - Applications of NLP Approaches For Georgian Language](/images/events/state_of_georgian_nlp_2023/applications_of_nlp_approaches_for_georgian_language.pdf)
+
 [Georgian Common Voice](https://commonvoice.mozilla.org/ka)
 
 
