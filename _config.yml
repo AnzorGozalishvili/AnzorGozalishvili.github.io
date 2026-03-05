@@ -98,21 +98,15 @@ author:
   name: "Anzor Gozalishvili"
   avatar: "/images/profile/avatar.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio: "Senior Machine Learning Engineer"
-  location: "Tbilisi, Georgia"
+  location: "Tbilisi, Lisi area"
   email: "anz2.gozalishvili@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
 #      url: mailto:"anz2.gozalishvili@gmail.com"
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://anz2.website"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
 #      url: "https://twitter.com/"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      url: "https://www.facebook.com/anzor.gozalishvili"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/AnzorGozalishvili"
@@ -292,6 +286,19 @@ defaults:
       related: true
       classes: wide
 
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
+      classes: wide
+
   # _pages
   - scope:
       path: "/_pages/"
@@ -308,3 +315,4 @@ defaults:
       layout: single
       author_profile: True
       share: true
+      classes: wide

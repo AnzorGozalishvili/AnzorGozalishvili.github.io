@@ -39,6 +39,10 @@ header:
 </div>
 
 <style>
+    .page__hero--overlay {
+        min-height: 500px;
+    }
+
     .image-grid {
         display: grid;
         grid-template-columns: repeat(2, 1fr);
