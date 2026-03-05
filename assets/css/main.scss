@@ -1,0 +1,26 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+search: false
+---
+
+@charset "utf-8";
+
+@import "minimal-mistakes/skins/air"; // skin
+@import "minimal-mistakes"; // main partials
+
+h2.archive__subtitle {
+  margin-top: 2em;
+  padding: 0.45em 0.75em;
+  font-size: 1.2em;
+  font-weight: bold;
+  background: repeating-linear-gradient(
+    135deg,
+    #b8bcc2 0,
+    #b8bcc2 3px,
+    transparent 3px,
+    transparent 6px
+  );
+  border: none;
+  border-radius: 3px;
+}
+
